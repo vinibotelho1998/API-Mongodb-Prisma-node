@@ -103,4 +103,3 @@ Vinicius Botelho
 - [GitHub](https://github.com/vinibotelho1998)
 - [LinkedIn](https://www.linkedin.com/in/viniciusdb8/)
 
-Link do Projeto: [API-Mongodb-Prisma-node](https://github.com/vinibotelho1998/API-Mongodb-Prisma-node)
